@@ -1,4 +1,4 @@
-# lab-customer-anallysis-predicting-claim-amount-with-ML
+# lab-customer-analysis-predicting-claim-amount-with-ML
 
 Lab | Predicting Claim Amount with ML Linear Regression
 Introduction
